@@ -16,7 +16,7 @@ const DomoSchema = new mongoose.Schema({
     min: 0,
     required: true,
   },
-   occupation: {
+  occupation: {
     type: String,
     required: true,
     trim: true,

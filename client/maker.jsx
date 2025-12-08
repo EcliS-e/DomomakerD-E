@@ -70,6 +70,7 @@ const domoNodes = domos.map(domo => {
         <h3 className='domoAge'>age: {domo.age}</h3>
          <h3 className='domoOccupation'>Occupation: {domo.occupation}</h3>
         </div>
+        
     );
 });
 
